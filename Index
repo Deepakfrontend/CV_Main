@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 , shrink-to-fit = no">
+    <meta name="author" content="Deepak Kumar">
+    <title>Deepak Kumar</title>
+
+    <!-- Fevicon -->
+    <link rel="shortcut icon" href="assets/img/dp1.png" type="image/x-icon">
+
+    <!-- google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Muli:300,400,600" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,900" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,200;0,300;0,400;0,600;0,800;0,900;1,500&amp;display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+Chettan+2:wght@400;500;700&amp;display=swap"
+        rel="stylesheet">
+
+    <!-- css -->
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/LineIcons.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.css">
+    <link rel="stylesheet" href="assets/css/pagepiling.css">
+    <link rel="stylesheet" href="assets/css/pagepiling.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="assets/css/color/red-color.css" id="option-color">
+    <!-- custom css file -->
+    <link rel="stylesheet" href="assets/css/main.css">
+
+</head>
+
+<body data-spy="scroll" data-offset="1" class="pp-viewing-hero">
+    <!-- Pre Loader -->
+    <div class="loader__wrap" style="display: 0;">
+        <div class="loader" style="display: 0;">
+            <div class="loader__sq" style="display: 0;"></div>
+            <div class="loader__sq" style="display: 0;"></div>
+        </div>
+    </div>
+
+    <div class="pilling-page" id="pagepiling" style="overflow: hidden; touch-action: none;">
+        <!-- Social -->
+        <div class="social-box">
+            <div class="follow-label ">
+                <span>Follow Me</span>
+            </div>
+            <div class="social">
+                <a href="https://www.linkedin.com/in/deepak-kumar-8b8328192/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                <a href="https://github.com/deny1706 " target="_blank"><i class="fa fa-github"></i></a>
+                <a href="https://www.instagram.com/k_deepak_02/" target="_blank"><i class="fa fa-instagram"></i></a>
+            </div>
+        </div>
+
+        <!-- Header -->
+        <header>
+            <div class="logo-area">
+                <a href="#hero" class="logo">
+                    <span>Deepak Kumar<span class="base-color"></span></span>
+                </a>
+            </div>
+            <div class="header-info-area">
+                <a class="overlay-menu-toggler lni-menu size-md " href="javascript:void(0);">
+                </a>
+
+            </div>
+        </header>
+        <!-- overlay menu -->
+        <div class="overlay-menu bg-blue py-3 px-4 text-center center-item">
+            <!-- Overlay Menu -->
+            <div id="scrollspy" class="overlay-menu-list">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 mx-auto overlay-nav">
+                            <ul class="list-group text-left" id="myMenu">
+                                <li data-menuanchor="hero" class="list-group-item active"><a href="#hero">Home</a>
+                                </li>
+                                <li data-menuanchor="about" class="list-group-item"><a href="#about">About me</a>
+                                </li>
+                                <li data-menuanchor="services" class="list-group-item"><a href="#services">Services</a>
+                                </li>
+                                <li data-menuanchor="portfolio" class="list-group-item"><a
+                                        href="#portfolio">Portfolio</a></li>
+                                <li data-menuanchor="client" class="list-group-item"><a href="#testimonial">Client</a>
+                                </li>
+                                <li data-menuanchor="blog" class="list-group-item"><a href="#blog">Blog</a></li>
+                            </ul>
+                            <ul class="list-group contact-info text-left mb-0">
+                                <li class="list-group-item"><span>Contact Info :</span></li>
+                                <li class="list-group-item"><span><i class="lni-map-marker"></i> Delhi, India</span></li>
+                                <!-- <li class="list-group-item"><span><i class="lni-phone-handset"></i> +1
+                                            212-695-1962</span></li> -->
+                                <!-- style="display: inline;" -->
+
+                                <li>
+                                    <span>
+                                        <i class="lni-envelope"></i>
+                                        <a href="mailto:deepakk21ece@gmail.com">
+                                            deepakk21ece@gmail.com
+                                        </a>
+
+                                    </span>
+                                </li>
+                                <li class="list-group-item"><span>Follow me :</span></li>
+                                <li class="list-group-item">
+                                    <ul class="list-inline socails">
+                                        <li class="list-inline-item"><a href="https://www.linkedin.com/in/deepak-kumar-8b8328192/"
+                                                target="_blank"><i class="lni-linkedin-original"></i></a></li>
+                                        <li class="list-inline-item"><a href="https://github.com/deny1706 "
+                                                target="_blank"><i class="lni-github-original"></i></a></li>
+                                        <li class="list-inline-item"><a
+                                                href="https://www.instagram.com/k_deepak_02/" target="_blank"><i
+                                                    class="lni-instagram-original"></i></a></li>
+
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Hero start -->
+        <section id="hero" class="section pp-scrollable hero-03 pp-section active " data-anchor="hero" style="z-index: 8;">
+            <div class="display-table">
+                <div class="display-content">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6 order-2 order-lg-1">
+                                <div class="hero-content">
+                                    <h1 class="dark-color mb-3">I am <span class="base-color"> Deepak Kumar</span></h1>
+                                    <h4 class="text-darktext-capitalize mb-0"><span class="base-color">A </span> <span
+                                            class="element" data-elements="Student.,Problem Solver.,Dreamer.">Student.
+                                        </span><span class="typed-cursor"></span></h4>
+                                    <p class="text-muted my-4">
+                                        <!-- Competitive programmer | Full stack Web-Developer | Flutter- Developer -->
+                                        As a Engineering Student, I aim to use my skills to contribte to the pace
+                                        of advancig world.
+                                    </p>
+                                    <div class="button-border mt-2">
+                                        <a href="assets/Resume_N.pdf" download class="pill-button">Download Cv</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 order-1 order-lg-2">
+                                <div class="hero-image">
+                                    <div class="square">
+                                        <img src="assets/img/element_square.png" alt="/">
+                                    </div>
+                                    <div class="circle"></div>
+                                    <div class="circle-2"></div>
+                                    <div class="circle-3"></div>
+                                    <div class="floating"></div>
+                                    <div class="personal-image rounded-circle personal-image">
+                                        <img src="assets/img/dp1.png" alt="/" class="rounded-circle img-fluid">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Me -->
+        <section id="about" class="section pp-scrollable about pp-section pp-easing " data-navigation-tooltip="ABOUT ME"
+            data-anchor="about" style="z-index: 7; transform: translate3d(0px, 0px, 0px);">
+            <div class="display-table">
+                <div class="display-content">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="title-wrapper">
+                                    <span>About Me</span>
+                                </div>
+                                <div class="title-content">
+                                    <h2 class="base-color">About Me</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="image-border">
+                                    <img src="assets/img/personal.jpg" alt="/">
+                                </div>
+                            </div>
+                            <div class="col-lg-6 mt-4 mt-lg-0">
+                                <div class="personal-item ">
+                                    <h3 class="text-dark mt-4 mt-lg-0"><span class="base-color">Tech</span> Enthusiast
+                                        &amp; Web Developer</h3>
+                                    <div class="row">
+                                        <div class="col-6 personal-info">
+                                            <ul class="list-unstyled pt-4">
+                                                <li>
+                                                    <p>Name <span>Deepak Kumar</span></p>
+                                                </li>
+                                                <li>
+                                                    <p>College <span> Netaji Subhas Institute of Technology</span></p>
+                                                </li>
+                                                <li>
+                                                    <p>Phone : <span> 8130484805 </span></p>
+                                                </li>
+                                                <li>
+                                                    <p>City : <span> Dwarka, Delhi</span></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-6 personal-info">
+                                            <ul class="list-unstyled pt-4">
+                                                <li>
+                                                    <p>Degree : <span> Bachelor</span></p>
+                                                </li>
+                                                
+                                                <li>
+                                                    <p>Freelance : <span> Available</span></p>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="button-border mt-3 mb-lg-0 mr-4">
+                                    <a href="assets/Resume_N.pdf" download class="pill-button">Download Cv</a>
+                                </div>
+                                <div class="button-border mt-3 mb-lg-0 to-contact">
+                                    <a href="#contact" class="pill-button">Hire Me</a>
+                                </div>
+                            </div>
+                        </div>
+                
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Education -->
+        <section id="Education" class="section resume pp-scrollable pp-section pp-easing "
+            data-navigation-tooltip="EDUCATION" data-anchor="EDUCATION"
+            style="z-index: 6; transform: translate3d(0px, 0px, 0px);">
+            <div class="display-table">
+                <div class="display-content">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="title-wrapper">
+                                    <span>My Education</span>
+                                </div>
+                                <div class="title-content">
+                                    <h2 class="base-color">My Education</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <!--    TimeLine Start   -->
+                        <div class="row">
+
+                            <div class="timeline-items box-border">
+                                <!--    Item 01   -->
+                                <div class="timeline-item">
+                                    <div class="timeline-icon"></div>
+                                    <div class="timeline-contents">
+                                        <div class="time-line-header">
+                                            <h6 class="timeline-title">Bachelor of Engineering in Electronics and comunication </h6>
+                                            <p class="timeline-year">2017 - 2021</p>
+                                        </div>
+                                        <div class="timeline-content">
+                                            <p>  <strong> Netaji Subhas Institute of Technology  </strong> 
+                                                <br>
+                                                Courses opted - Data Structures and Algorithms, C , C++, Java, DataBase Management System, Operating System.
+                                           
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--    Item 02   -->
+                                <div class="timeline-item">
+                                    <div class="timeline-icon"></div>
+                                    <div class="timeline-contents">
+                                        <div class="time-line-header">
+                                            <h6 class="timeline-title">Senior Secondary (XII), CBSE</h6>
+                                            <p class="timeline-year">2013 - 2015</p>
+                                        </div>
+                                        <div class="timeline-content">
+                                            <p><strong>Percentage: 60.2%, GD Goenka Public School Delhi</strong>
+                                            <br>
+                                            Completed my Intermediate Studies in science stream. Major subjects opted were: Physics, Chemistry, Maths and literature.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--    Item 03   -->
+                                <div class="timeline-item">
+                                    <div class="timeline-icon"></div>
+                                    <div class="timeline-contents">
+                                        <div class="time-line-header">
+                                            <h6 class="timeline-title">Secondary(X), CBSE </h6>
+                                            <p class="timeline-year">2012 - 2013</p>
+                                        </div>
+                                        <div class="timeline-content">
+                                            <p><strong>CGPA: 8.2/10.0, St. Martin Public school, Delhi</strong> 
+                                                <br>
+                                                My Secondary Education was completed in St. Martin public School under CBSE board. Maths, Physics and Computer were among my favorite subjects.
+                                                </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--    TimeLine End   -->
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    
+
+        <!-- My Skills -->
+        <section id="skills" class="section pp-scrollable services pp-section pp-easing " data-navigation-tooltip="SKILLS" data-anchor="skills" style="z-index: 5; transform: translate3d(0px, 0px, 0px);">
+            <div class="display-table">
+                <div class="display-content">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="title-wrapper">
+                                    <span>My Skills</span>
+                                </div>
+                                <div class="title-content">
+                                    <h2 class="base-color">My Skills</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <!-- Item 01 -->
+                            <div class="col-lg-4 text-center text-md-left">
+                                <div class="services-item box-hover-border">
+                                    <div class="text-center p-4">
+                                        <i class="lni-brush-alt size-md base-color"></i>
+                                        <h5 class="text-dark">Programming Languages </h5>
+                                        <p class="text-muted mb-0">C++, Python, C </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Item 02 -->
+                            <div class="col-lg-4 text-center text-md-lef">
+                                <div class="services-item box-hover-border">
+                                    <div class="text-center p-4">
+                                        
+                                         <i class="lni-world size-md base-color"></i>
+                                        <h5 class="text-dark">Web Development:</h5>
+                                        <p class="text-muted mb-0">HTML5 , CSS3, Bootstrap 4, JavaScript, NodeJS, React, REST API, MongoDB, ExpressJS</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Item 03 -->
+                            
+                            <div class="col-lg-4 text-center text-md-left">
+                                <div class="services-item box-hover-border">
+                                    <div class="text-center p-4">
+                                        <!-- <i class="lni-heart size-md base-color"></i> -->
+                                       <i class="lni-database size-md base-color"></i>
+                                        <h5 class="text-dark">Database Management System</h5>
+                                        <p class="text-muted mb-0">MySQL, Oracle, MongoDB (Mongoose) </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Item 04 -->
+                            
+                            <!-- Item 05 -->
+                            <div class="col-lg-4 text-center text-md-left">
+                                <div class="services-item box-hover-border">
+                                    <div class="text-center p-4">
+                                        <i class="lni-laptop-phone size-md base-color"></i>
+                                        <h5 class="text-dark">Other Tools and Technologies</h5>
+                                        <p class="text-muted mb-0">Machine Learning. <br>
+                                        VS Code, Github, Data Structures and Algorithms.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Item 06 -->
+                            <div class="col-lg-4 text-center text-md-left">
+                                <div class="services-item box-hover-border">
+                                    <div class="text-center p-4">
+                                        <!-- <i class="lni-cup size-md base-color"></i> -->
+                                        <i class="lni-heart size-md base-color"></i>
+                                        <h5 class="text-dark">Soft Skills</h5>
+                                        <p class="text-muted mb-0">Problem Solving, Critical Thinking, Decision Making, Analytical Skills</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- My Projects -->
+        <section id="project" class="section pp-scrollable portfolio pp-section pp-easing" data-navigation-tooltip="PROJECTS" data-anchor="projects" style="z-index: 4; transform: translate3d(0px, 0px, 0px);">
+            <div class="display-table">
+                <div class="display-content">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="title-wrapper">
+                                    <span>My Projects</span>
+                                </div>
+                                <div class="title-content">
+                                    <h2 class="base-color">My Projects</h2>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="portfolio-items row" style="position: relative; height: 4999.78px;">
+                            <!-- Item 01 -->
+                            <div class="col-lg-4 portfolio-item webdev" style="position: absolute; left: 0px; top: 0px;">
+                                <div class="image-border">
+                                    <div class="portfolio-item-content">
+                                        <img src="assets/img/portfolio/resume.png" alt="/" class="img-fluid">
+                                        <div class="img-overlay text-center">
+                                            <div class="img-overlay-content">
+                                                <div class="portfolio-icon">
+                                                    <a href="https://deny1706.github.io/Resume/"  target="_blank"><i class="lni-link"></i></a>
+
+                                                    <a href="https://github.com/deny1706/Resume" target="_blank">
+                                                        <i class="lni-search"></i>
+                                                    </a>
+                                                </div>
+                                                <h5 class="mt-3 mb-0">Resume</h5>
+                                                <h6 class="mt-3 mb-0" style="color: aliceblue;">Static Portfolio website</h6>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Item 02 -->
+                            <div class="col-lg-4 portfolio-item mobdev" style="position: absolute; left: 0px; top: 416px;">
+                                <div class="image-border">
+                                    <div class="portfolio-item-content">
+                                        <img src="assets/img/portfolio/maze.png" alt="/" class="img-fluid">
+                                        <div class="img-overlay text-center">
+                                            <div class="img-overlay-content">
+                                                <div class="portfolio-icon">
+                                                    <a href="https://github.com/deny1706/mazeRunner" target="_blank">
+                                                        <i class="lni-search"></i>
+                                                    </a>
+                                                </div>
+                                                <h5 class="mt-3 mb-0">InQ</h5>
+                                                <h6 class="mt-3 mb-0" style="color: aliceblue;">Maze Runner</h6>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Item 03 -->
+                            <div class="col-lg-4 portfolio-item webdev" style="position: absolute; left: 0px; top: 833px;">
+                                <div class="image-border">
+                                    <div class="portfolio-item-content">
+                                        <img src="assets/img/portfolio/sudoku.png" alt="/" class="img-fluid">
+                                        <div class="img-overlay text-center">
+                                            <div class="img-overlay-content">
+                                                <div class="portfolio-icon">
+                                                    <a href="https://github.com/deny1706/sudoku"  target="_blank"><i class="lni-link"></i></a>
+                                                </div>
+                                                <h5 class="mt-3 mb-0">Sudoku Solver</h5>
+                                                <h6 class="mt-3 mb-0" style="color: aliceblue;">Sudoku solver using Backtracking method. </h6>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Item 04 -->
+                            <div class="col-lg-4 portfolio-item mobdev" style="position: absolute; left: 0px; top: 416px;">
+                                <div class="image-border">
+                                    <div class="portfolio-item-content">
+                                        <img src="assets/img/portfolio/chest.png" alt="/" class="img-fluid">
+                                        <div class="img-overlay text-center">
+                                            <div class="img-overlay-content">
+                                                <div class="portfolio-icon">
+                                                    <a href="https://github.com/deny1706/Covid-Detection-using-Xray" target="_blank">
+                                                        <i class="lni-search"></i>
+                                                    </a>
+                                                </div>
+                                                <h5 class="mt-3 mb-0"> Covid Detectio using X-ray</h5>
+                                                <h6 class="mt-3 mb-0" style="color: aliceblue;">Detect Covid 19 from Xray using CNN model.</h6>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact ME -->
+        <section id="contact" class="section pp-scrollable contact pp-section pp-easing " data-navigation-tooltip="CONTACT" data-anchor="contact" style="z-index: 1; transform: translate3d(0px, 0px, 0px);">
+            <div class="display-table">
+                <div class="display-content">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="title-wrapper">
+                                    <span>Get In Touch</span>
+                                </div>
+                                <div class="title-content">
+                                    <h2 class="base-color">Get In Touch</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row contact-info">
+                            
+                            <div class="col-lg-6">
+                                <div class="contact-info-text text-center">
+                                    <div class="base-color">
+                                        <i class="lni-map-marker size-md"></i>
+                                    </div>
+                                    <div class="mt-3">
+                                        <h5 class="text-dark mb-0 contact_detail-title">Location</h5>
+                                        <small class="text-muted">Delhi, India</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="contact-info-text text-center">
+                                    <div class="base-color">
+                                        <i class="lni-pointer size-md"></i>
+                                    </div>
+                                    <div class="mt-3">
+                                        <span>
+                                            <h5 class="text-dark mb-0">Email Me</h5>
+                                                <a href="mailto:deepakk21ece@gmail.com">
+                                                    <small class="text-muted">deepakk21ece@gmail.com
+                                                    </small>
+                                                </a>
+                                        </span>
+                                       
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12 mt-5 contact-form">
+                                <form id="contactForm" action="https://formcarry.com/s/COVjHeS2I88" method="POST" accept-charset="UTF-8">
+                                    <div class="row">
+                                        <div class="col-lg-6 form-item">
+                                            <div class="form-group">
+                                                <input name="name" id="name" type="text" class="form-control" placeholder="Your Name*" required="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6 form-item">
+                                            <div class="form-group">
+                                                <input name="email" id="email" type="email" class="form-control" placeholder="Your Email*" required="">
+                                            </div>
+                                        </div>
+
+                                        <div class="col-12 form-item">
+                                            <div class="form-group">
+                                                <input name="subject" id="subject" type="text" class="form-control" placeholder="Your Subject*" required="">
+                                            </div>
+                                        </div>
+                                        <div class="col-12 form-item">
+                                            <div class="form-group">
+                                                <textarea name="comments" id="comments" rows="4" class="form-control" placeholder="Your message..."></textarea>
+                                            </div>
+                                        </div>
+                                        <!-- <input type="hidden" name="_gotcha"> -->
+                                        <div class="col-sm-12 mt-4 text-left">
+                                            <div class="button-border">
+                                                <button  class="pill-button" id="submit-btn" >Send Message</>
+                                            </div>
+                                            <div id="message" class="toast fade bg-danger hide" role="alert" aria-live="assertive" aria-atomic="true" data-delay="4000">
+                                                <div class="toast-body d-inline-block">Name is  required</div>
+                                                <button type="submit" class="pr-3 close" data-dismiss="toast"  aria-label="Close">
+                                                    <span aria-hidden="true" class="lni-close size-xs "></span>
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                            <!-- href="javascript:void(0)" -->
+                        </div>
+                        <div class="row copy-right">
+                            <div class="col-12 text-center text-dark">
+                                <p>Copyright © 2021. Developed by <span class="base-color">Deepak Kumar</span></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- color option -->
+        <div id="color-switcher" class="color-switcher">
+            <div class="text-center color-pallet hide">
+                <h6 class="theme-skin-title">Theme Skin</h6>
+                <ul class="theme-skin list-inline">
+                    <li class="list-inline-item">
+                        <a href="javascript:void(0)" class="flat-skin">Flat</a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="javascript:void(0)" class="neo-skin active">Neo</a>
+                    </li>
+                </ul>
+                <h6 class="text-center mt-3">Select your color</h6>
+                <ul class="pattern">
+                    <li>
+                        <a class="color1" href="#"></a>
+                    </li>
+                    <li>
+                        <a class="color2" href="#"></a>
+                    </li>
+                    <li>
+                        <a class="color3" href="#"></a>
+                    </li>
+                    <li>
+                        <a class="color4" href="#"></a>
+                    </li>
+                    <li>
+                        <a class="color5" href="#"></a>
+                    </li>
+                    <li>
+                        <a class="color6" href="#"></a>
+                    </li>
+                    <li>
+                        <a class="color7" href="#"></a>
+                    </li>
+                    <li>
+                        <a class="color8" href="#"></a>
+                    </li>
+                    <li>
+                        <a class="color9" href="#"></a>
+                    </li>
+                </ul>
+                <h6 class="my-2 color-scheme-title">Light &amp; Dark Version</h6>
+                <ul class="color-scheme list-inline">
+                    <li class="list-inline-item">
+                        <a href="javascript:void(0)" class="light-scheme active"><i class="lni-sun"></i> Light</a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="javascript:void(0)" class="dark-scheme"><i class="lni-night"></i> Dark</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="pallet-button hide">
+                <a href="#" class="cp-toggle"><i class="fa fa-cog fa-spin"></i></a>
+            </div>
+        </div>
+    </div>
+
+    <!-- About -->
+
+
+    <!-- javascripts -->
+    <script src="assets/js/jquery-3.4.1.min.js"></script>
+    <script src="assets/js/bootstrap.js"></script>
+    <script src="assets/js/pagePiling.js"></script>
+    <script src="assets/js/jquey.easing.min.js"></script>
+    <script src="assets/js/jquery.countTo.js"></script>
+    <script src="assets/js/typed.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/particles-01.min.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+
+</html>
